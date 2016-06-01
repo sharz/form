@@ -1,0 +1,21 @@
+.box{
+    outline: auto;
+    width:700px;
+}
+.box1{
+    outline:auto;
+    width:600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.box3 {
+    outline: auto;
+    width:600px;
+    margin-bottom: 20px;
+    height: 400px;
+    overflow-y: scroll;
+}
+.cb label
+{
+    margin-left: 20px;
+}

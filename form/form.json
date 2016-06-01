@@ -1,0 +1,33 @@
+[
+  {
+    "id": 0,
+    "name": "AUTOMATIVE ",
+    "details": [
+      "Electronics",
+      "SUB-CAT-2",
+      "SUB-CAT-3",
+      "SUB-CAT-4"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "REAL ESTATE",
+    "details": [
+      "Electronics",
+      "SUB-CAT-2",
+      "SUB-CAT-3",
+      "SUB-CAT-4"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "RETAIL",
+    "details": [
+      "Electronics",
+      "SUB-CAT-2",
+      "SUB-CAT-3",
+      "SUB-CAT-4"
+    ]
+  }
+
+]
